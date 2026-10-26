@@ -1,0 +1,48 @@
+[
+  {
+    "component": "tourism2",
+    "componentPrimaryName": "",
+    "templateID": 804401,
+    "entities": [
+      {
+        "word": "Paris",
+        "collectionName": "CITIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "Europe/Paris",
+            "lat": 48.8566,
+            "city": "Paris",
+            "long": 2.3522,
+            "state": "Île-de-France",
+            "country": "France",
+            "countryCode": "FR"
+          }
+        },
+        "componentName": "tourism2",
+        "entityType": "LOCATION",
+        "description": "capital of France",
+        "relevanceScore": 100,
+        "isEnabled": 1,
+        "keywordRequired": 0
+      }
+    ],
+    "query": "Things to do in Paris",
+    "componentEnabled": true,
+    "keyword": [{ "word": "things to do", "description": "" }],
+    "genericQuery": "things to do in HD_LOCATION__CITIES",
+    "userLocation": {
+      "position": {
+        "coords": { "latitude": 26.4631, "longitude": 80.3479 },
+        "city": "Kanpur",
+        "countryCode": "IN"
+      },
+      "source": "ip"
+    },
+    "time": "2026-10-26T08:10:48.965Z",
+    "quickView": 3,
+    "componentEnabled": true,
+    "componentType": "internal",
+    "suggestedPlace": "sidebar"
+  }
+]
