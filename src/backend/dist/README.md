@@ -1,0 +1,1 @@
+This folder contains the built output assets for the worker "hd-backend" generated at 2026-10-26T09:50:56.975Z.
